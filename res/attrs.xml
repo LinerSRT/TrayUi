@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PositionLayout">
+        <attr name="pl_x" format="float"/>
+        <attr name="pl_y" format="float"/>
+    </declare-styleable>
+</resources>
